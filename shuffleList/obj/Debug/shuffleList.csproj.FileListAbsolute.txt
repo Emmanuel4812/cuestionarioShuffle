@@ -1,0 +1,7 @@
+C:\Users\olld\source\repos\shuffleList\shuffleList\bin\Debug\shuffleList.exe.config
+C:\Users\olld\source\repos\shuffleList\shuffleList\bin\Debug\shuffleList.exe
+C:\Users\olld\source\repos\shuffleList\shuffleList\bin\Debug\shuffleList.pdb
+C:\Users\olld\source\repos\shuffleList\shuffleList\obj\Debug\shuffleList.csprojAssemblyReference.cache
+C:\Users\olld\source\repos\shuffleList\shuffleList\obj\Debug\shuffleList.csproj.CoreCompileInputs.cache
+C:\Users\olld\source\repos\shuffleList\shuffleList\obj\Debug\shuffleList.exe
+C:\Users\olld\source\repos\shuffleList\shuffleList\obj\Debug\shuffleList.pdb
