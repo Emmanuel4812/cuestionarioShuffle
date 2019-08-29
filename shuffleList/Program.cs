@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// Esta función hara que se creen una lista de indices randomizados.
+// Esta función hara que se creen una lista de indices randomizados 123.
 
 namespace shuffleList
 {
